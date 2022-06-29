@@ -56,9 +56,10 @@ function Main() {
         {
           loginpage ? (<Login/>) : (
 <>
-
+            <div className='colrow'>
             <h2 >BYTE THE GLASS</h2>
             <h1> BUILD THE FUTURE</h1>
+            </div>
             {/* <div class="perspective-text">
       <div class="perspective-line">
         <p></p>
