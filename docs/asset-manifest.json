@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/igi-layout2/static/css/main.77ec8252.css",
+    "main.js": "/igi-layout2/static/js/main.42924e3b.js",
+    "static/js/787.1571197a.chunk.js": "/igi-layout2/static/js/787.1571197a.chunk.js",
+    "static/media/ano2light.otf": "/igi-layout2/static/media/ano2light.ca831a3a03a1c294b38c.otf",
+    "static/media/TitilliumWeb-Black.ttf": "/igi-layout2/static/media/TitilliumWeb-Black.b06b28a5ea3d6c76e3f2.ttf",
+    "static/media/Quantum.otf": "/igi-layout2/static/media/Quantum.2cf9e1c7fad59d223171.otf",
+    "static/media/Robodron.otf": "/igi-layout2/static/media/Robodron.2f445dd0dccfb699ebfb.otf",
+    "index.html": "/igi-layout2/index.html",
+    "main.77ec8252.css.map": "/igi-layout2/static/css/main.77ec8252.css.map",
+    "main.42924e3b.js.map": "/igi-layout2/static/js/main.42924e3b.js.map",
+    "787.1571197a.chunk.js.map": "/igi-layout2/static/js/787.1571197a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77ec8252.css",
+    "static/js/main.42924e3b.js"
+  ]
+}
